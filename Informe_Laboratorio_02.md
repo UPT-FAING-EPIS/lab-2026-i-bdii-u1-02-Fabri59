@@ -2,9 +2,8 @@
 ## Consumiendo datos de una base de datos Microsoft SQL Server
 
 ### Datos del alumno
-- Nombre: Fabricio
+- Nombre: Diego Fabrizio Andia Navarro
 - Curso: Base de Datos II
-- Sección: U1-02
 - Fecha: 04/07/2026
 
 ### Tema
